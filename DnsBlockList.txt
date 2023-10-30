@@ -1468,6 +1468,7 @@
 ||pzcoin.cc^
 ||pzcoin.co^
 ||pzcoin.xyz^
+||pg-mall.com.tw^
 ||qartalfx.com^
 ||qghjk.com^
 ||qh328.tw^
