@@ -11,9 +11,12 @@
 ||100exbtc.top^
 ||11stglobal.com^
 ||123xc.net^
+||156.96.62.201^
+||163.172.226.137^
 ||16y.app^
 ||17play275.com^
 ||17win17.com^
+||185.172.110.235^
 ||1898ll.com^
 ||192813.com^
 ||19kkm72.top^
@@ -22,6 +25,7 @@
 ||1tbg.top^
 ||1tjpki3yzy4w.com^
 ||2018taipeielder.com.tw^
+||204.11.56.48^
 ||24forexpro.exchange^
 ||25380.net^
 ||26043.com^
@@ -66,9 +70,9 @@
 ||677701.com^
 ||6m56aj.shop^
 ||6pjj.top^
+||7-11.com.tw^
 ||7322561.com^
 ||7-eleveniuk.co^
-||7-11.com.tw^
 ||7oiu2.top^
 ||7pyi.top^
 ||7v9m.top^
@@ -86,7 +90,9 @@
 ||9086659.site^
 ||9087721.site^
 ||90m9d8.xyz^
+||915020.com^
 ||9187218.site^
+||91p575.com^
 ||9253489.site^
 ||9255139.site^
 ||9366561.site^
@@ -350,6 +356,7 @@
 ||bdugbfh.com^
 ||beanfunx.com^
 ||beanfunz.com^
+||beanfux.com^
 ||bectw.com^
 ||beellmonforfx.com^
 ||bellmoforex.com^
@@ -672,7 +679,6 @@
 ||carrofomjiuort.com^
 ||carrofoumarts.shop^
 ||cartewd.com^
-||comexwallet.top^
 ||castillo-otc.com^
 ||cb-bito.xyz^
 ||cbexjiu01.top^
@@ -859,10 +865,12 @@
 ||colbathlamprepair.com^
 ||comex-pro.org^
 ||comexpro.top^
+||comexwallet.top^
 ||commbak.vip^
 ||commnbank.vip^
 ||compoundingmarket.org^
 ||condorcapitalmarkets.ltd^
+||contractce.com^
 ||contractda.com^
 ||costcoalan.com^
 ||costcocolor.com^
@@ -1307,6 +1315,7 @@
 ||fqbuio.top^
 ||franklinsxzs.com^
 ||franklintapp.com^
+||freestickershop.com^
 ||fscm.com.tw^
 ||fsctrades.com^
 ||fssgzp.top^
@@ -1767,6 +1776,7 @@
 ||ipeenwb.com^
 ||ireyrbhg.com^
 ||irsinvest.com^
+||it-atomir.com^
 ||it-atomiu.com^
 ||itezjq.top^
 ||itradeable.com^
@@ -1925,6 +1935,7 @@
 ||kekgy.club^
 ||ke-mas.com^
 ||kereros.com^
+||keyimaginarycomprise.com^
 ||kezarx.com^
 ||kezeeros.com^
 ||kfdhvg.top^
@@ -2608,6 +2619,7 @@
 ||qbdjfgggh.xyz^
 ||qbujyxdfg.com^
 ||qcwvw.top^
+||qd73.cc^
 ||qddxu.top^
 ||qdzqrg.com^
 ||qghjk.com^
@@ -2664,6 +2676,7 @@
 ||rcv6owo.life^
 ||rdrkred.vip^
 ||realoopufx.com^
+||reassurehm.com^
 ||red-mall.shop^
 ||red-mall.xyz^
 ||redrkcc.cc^
@@ -2726,6 +2739,7 @@
 ||ruibidown.com^
 ||runcheng.xyz^
 ||runwinsrs.com^
+||runwinsters.com^
 ||rvlwab.top^
 ||rwk4.top^
 ||rwlke.com^
@@ -3747,7 +3761,3 @@
 ||zxmvkfmnqnl.com^
 ||zyiif.top^
 ||zzjje.com^
-||163.172.226.137^
-||185.172.110.235^
-||156.96.62.201^
-||204.11.56.48^
