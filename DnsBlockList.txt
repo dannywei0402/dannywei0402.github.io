@@ -135,6 +135,7 @@
 ||linebank.beauty^
 ||linebank.click^
 ||linebank.homes^
+||twgabme.com^
 ||linebank.lol^
 ||linebank.one^
 ||linetw.homes^
