@@ -4,6 +4,7 @@
 ||shzpee-tw.com^
 ||ebuy8899.com^
 ||crazygostore-tw.com^
+||jasdecdon.com^
 ||cablebewilder.online^
 ||lovedatetw.com^
 ||perchintimidation.fun^
@@ -27,7 +28,7 @@
 ||ddb80.com^
 ||weishenl.com^
 ||ldp.page^
-||pagesinforverifications.*
+||pagesinforverifications.*^
 ||glory-as.com^
 ||gloryoss.oss-ap-southeast-7.aliyuncs.com^
 ||yongxappdowns.com^
@@ -35,7 +36,7 @@
 ||x8m8tech.tw^
 ||investimes.com^
 ||superhappy.life^
-||shopeez.cn
+||shopeez.cn^
 ||hon-binary.com^
 ||weishenw.xyz^
 ||netfltiw.com^
@@ -128,7 +129,7 @@
 ||xm-chats.com^
 ||legoushopee.com^
 ||ditok333.com^
-||centerhelpconfirm.cf
+||centerhelpconfirm.cf^
 ||carousellgo.com^
 ||2477235u71271355.co.vu^
 ||u.to^
