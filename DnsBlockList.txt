@@ -1,4 +1,5 @@
 @@||beanfun.onelink.me^
+@@||m.weibo.cn^
 ||*.top^
 ||*.cn^
 ||*.vip^
