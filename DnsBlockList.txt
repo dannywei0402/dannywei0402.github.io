@@ -1,3 +1,9 @@
+@@||beanfun.onelink.me^
+||*.top^
+||*.cn^
+||*.vip^
+||*.xyz^
+||[0-9].com^
 ||mystrikingly.com^
 ||metavery-page.com^
 ||lineinst.cyou^
