@@ -3,7 +3,7 @@
 ||*.cn^
 ||*.vip^
 ||*.xyz^
-||[0-9]+.com^
+||[0-9]*.com^
 ||mystrikingly.com^
 ||metavery-page.com^
 ||lineinst.cyou^
