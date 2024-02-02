@@ -1,6 +1,7 @@
 @@||*.beanfun.onelink.me^
 @@||*.weibo.cn^
 @@||*.sinaimg.cn^
+@@||*.sinajs.cn^
 ||*.top^
 ||*.cn^
 ||*.vip^
