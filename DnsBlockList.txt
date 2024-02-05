@@ -1,8 +1,12 @@
+#beanfun連結
 @@||*.beanfun.onelink.me^
+#微博網站
 @@||*.sina.com.cn^
 @@||*.sinaimg.cn^
 @@||*.sinajs.cn^
 @@||*.weibo.cn^
+#Discord機器人 MEE6官網
+@@||mee6.xyz^
 ||*.top^
 ||*.vip^
 ||*.cn^
