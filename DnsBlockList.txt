@@ -1,6 +1,4 @@
-2/21更新
-#beanfun連結
-@@||*.beanfun.onelink.me^
+#3/26更新
 #微博網站
 @@||*.sina.com.cn^
 @@||*.sinaimg.cn^
@@ -8,9 +6,6 @@
 @@||*.weibo.cn^
 #Discord機器人 MEE6官網
 @@||mee6.xyz^
-#Dcard連結
-@@||*.dcardx.onelink.me^
-@@||*.dcard.onelink.me^
 ||*.top^
 ||*.vip^
 ||*.cn^
