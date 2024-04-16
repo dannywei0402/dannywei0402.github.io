@@ -74,6 +74,7 @@
 ||*.top^
 ||*.vip^
 ||*.xyz^
+||*.lol^
 ||00000255123135324.ml^
 ||00086.cc^
 ||001studio.tw^
@@ -14132,6 +14133,7 @@
 ||xn--15q04wbh90fpx7b90b5wyf5p.biz^
 ||xn--15q04wbh90fpx7b90b5wyf5p.lol^
 ||xn--15q22wybv85df66b8xa.biz^
+||xn--7-eleven0331-7q1w9d979nqpe.lol^
 ||xn--15qy8gtwbh9hhz0bklmh5ne27a.tokyo^
 ||xn--1cto53j.com^
 ||xn--1jr80iq4br5uhwe.com^
