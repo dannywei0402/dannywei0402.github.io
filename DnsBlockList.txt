@@ -1,11 +1,13 @@
-#4/15更新
-#Discord機器人 MEE6官網
+!Title: Danny_DnsBlock
+!Version: 2023.0415
+!-------------------------------
+!Discord機器人 MEE6官網
 @@||mee6.xyz^
-#問卷
+!問卷
 @@||surveycake.com^$important
-#新北市政府
+!新北市政府
 @@||ntpc.gov.tw^$important
-#一卡通短網址相關
+!一卡通短網址相關
 @@||i-pass.co^
 @@||bingx.com^
 @@||bitturk.com^
