@@ -1,4 +1,7 @@
-#參考https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/blob/master/CustomBlockForAdguardHome.txt
+!Title: DnsBlock_for_houboyjacky
+!Version: 2023.0415
+!https://github.com/houboyjacky/Ad-Malicious-Scams-Boring-Farm-Filter/blob/master/CustomBlockForAdguardHome.txt
+!-------------------------------
 ||00000255123135324.ml^
 ||0041.online^
 ||008c15-3.myshopify.com^
