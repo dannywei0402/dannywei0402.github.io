@@ -1,5 +1,5 @@
 !Title: Danny_DnsBlock
-!Version: 2023.06.03
+!Version: 2023.07.10
 !-------------------------------
 !Discord機器人 MEE6官網
 @@||mee6.xyz^
