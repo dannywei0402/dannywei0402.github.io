@@ -1,5 +1,5 @@
 !Title: Danny_DnsBlock
-!Version: 2023.07.10
+!Version: 2023.07.25
 !-------------------------------
 !Discord機器人 MEE6官網
 @@||mee6.xyz^
@@ -3751,7 +3751,6 @@
 ||cmproclean.club^
 ||cnaacoina.com^
 ||cnanputfvbq.com^
-||cnblogs.com^
 ||cndhburkina.bf^
 ||cnflcp.top^
 ||cnfnkc.top^
