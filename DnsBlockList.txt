@@ -1,5 +1,5 @@
 !Title: Danny_DnsBlock
-!Version: 2023.07.25
+!Version: 2023.07.27
 !-------------------------------
 !Discord機器人 MEE6官網
 @@||mee6.xyz^
@@ -2227,6 +2227,7 @@
 ||bitbyai.com^
 ||bit-c.co^
 ||bitcastlebof.com^
+||beanfuxn.com^
 ||bitcatex.com^
 ||bitcc.vip^
 ||bitccoin.top^
